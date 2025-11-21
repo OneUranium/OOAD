@@ -1,0 +1,6 @@
+ACC1-SAV|Savings|3000.0|Main Branch|1
+ACC1-INV|Investment|4000.0|Main Branch|1
+ACC1-CHQ|Cheque|1000.0|Main Branch|1
+ACC2-SAV|Savings|3000.0|Main Branch|2
+ACC2-INV|Investment|4000.0|Main Branch|2
+ACC2-CHQ|Cheque|1000.0|Main Branch|2

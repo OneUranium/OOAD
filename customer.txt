@@ -1,0 +1,10 @@
+1|INDIVIDUAL|123 Main St|john@email.com|John|Doe|Software Engineer
+2|INDIVIDUAL|456 Oak Ave|jane@email.com|Jane|Smith|Teacher
+3|INDIVIDUAL|789 Pine Road|mike.wilson@email.com|Mike|Wilson|Doctor
+4|INDIVIDUAL|321 Tsholofelo Street|sarah.brown@email.com|Sarah|Botshelo|Accountant
+5|INDIVIDUAL|654 Maruapula Drive|david.jones@email.com|David|Jason|Engineer
+6|COMPANY|101 Business Plaza|tech.solutions@email.com|Tech Solutions Ltd|REG123456
+7|COMPANY|202 Corporate Center|global.trade@email.com|Global Trade Inc|REG789012
+8|INDIVIDUAL|888 Gaborone Sun|emily.chen@email.com|Emily|Letsabi|Architect
+9|INDIVIDUAL|555 River View|robert.garcia@email.com|Robert|Garcia|Professor
+10|INDIVIDUAL|777 Mountain Ave|lisa.taylor@email.com|Lisa|Taylor|Nurse
